@@ -7,8 +7,10 @@ Each week, you'll complete lab assignments and add them to your portfolio websit
 ## One-Time Setup (Week 1 Only)
 
 ### Step 0: Clone the Course Repository
-You can also do this in GitHub desktop, which will probably be easier at first,
+You can also do this in GitHub Desktop, which will probably be easier at first,
 but slower in the long run. Following is the bash code.
+
+**Very Important: To follow the steps using the bash code, you need to install Git first and finish the git client setup**
 
 **First, clone the course repository** (you only need to do this once):
 
@@ -66,7 +68,7 @@ navbar:
     - text: Labs
       menu:
         - href: labs/lab_0/
-          text: Lab 0: dplyr Basics
+          text: "Lab 0: dplyr Basics"
 ```
 
 **Important:** Make sure the indentation matches exactly! YAML is sensitive to spacing.
@@ -110,9 +112,9 @@ navbar:
     - text: Labs
       menu:
         - href: labs/lab_0/
-          text: Lab 0: dplyr Basics
+          text: "Lab 0: dplyr Basics"
         - href: labs/lab_1/           # ADD NEW LABS HERE
-          text: Lab 1: [Lab Title]
+          text: "Lab 1: [Lab Title]"
 ```
 
 ### Step 5: Render and Deploy
@@ -128,7 +130,9 @@ navbar:
    ```bash
    git push origin main
    ```
-5. **Check your live site:** Your portfolio should update automatically
+
+5. Set up the GitHub page in the repo settings
+6. **Check your live site:** Your portfolio should update automatically
 
 ## Troubleshooting
 
