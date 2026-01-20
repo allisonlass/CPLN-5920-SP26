@@ -6,6 +6,6 @@ Materials for Penn's Spring 2026 CPLN 5920/MUSA 5080-Public Policy Analytics cou
 **Lectures**
 - forthcoming
 
-**Labs**
+**[Labs] (https://github.com/allisonlass/CPLN-5920-SP26/tree/main/labs)**
 - [Portfolio template](https://github.com/allisonlass/cpln-5920-sp26-student-portfolio-template)
 
