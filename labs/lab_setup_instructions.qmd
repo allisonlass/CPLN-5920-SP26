@@ -7,6 +7,8 @@ Each week, you'll complete lab assignments and add them to your portfolio websit
 ## One-Time Setup (Week 1 Only)
 
 ### Step 0: Clone the Course Repository
+You can also do this in GitHub desktop, which will probably be easier at first,
+but slower in the long run. Following is the bash code.
 
 **First, clone the course repository** (you only need to do this once):
 
@@ -17,7 +19,7 @@ Each week, you'll complete lab assignments and add them to your portfolio websit
    ```
 3. **Clone the course repository:**
    ```bash
-   git clone https://github.com/MUSA-5080-Fall-2025/MUSA-5080-Fall-2025.git
+   git clone https://github.com/CPLN-5920-SP26/CPLN-5920-SP26.git
    ```
 
 **Important:** This creates a **separate folder** from your portfolio repository.
@@ -30,7 +32,6 @@ In your portfolio repository, create this folder structure:
 your-portfolio/
 ├── _quarto.yml           # You'll edit this
 ├── index.qmd            # Your home page  
-├── weekly-notes/        # Already exists
 ├── labs/                # CREATE THIS FOLDER
 │   └── lab_0/           # CREATE THIS FOLDER
 │       ├── lab_0_template.qmd    # You'll copy this file here
@@ -54,8 +55,6 @@ navbar:
   left:
     - href: index.qmd
       text: Home
-    - href: weekly-notes/
-      text: Weekly Notes
 ```
 
 **With this:**
@@ -64,8 +63,6 @@ navbar:
   left:
     - href: index.qmd
       text: Home
-    - href: weekly-notes/
-      text: Weekly Notes
     - text: Labs
       menu:
         - href: labs/lab_0/
@@ -84,7 +81,7 @@ navbar:
 
 ### Step 1: Get the Lab Template
 
-1. Go to the [course repository](https://github.com/MUSA-5080-Fall-2025/MUSA-5080-Fall-2025)
+1. Go to the [course repository](https://github.com/CPLN-5920-SP26/CPLN-5920-SP26)
 2. Navigate to `labs/lab_X/` (where X is the lab number)
 3. Download or copy the lab template files
 
@@ -110,8 +107,6 @@ navbar:
   left:
     - href: index.qmd
       text: Home
-    - href: weekly-notes/
-      text: Weekly Notes
     - text: Labs
       menu:
         - href: labs/lab_0/
@@ -171,10 +166,6 @@ navbar:
 your-portfolio/
 ├── _quarto.yml
 ├── index.qmd
-├── weekly-notes/
-│   ├── index.qmd
-│   ├── week_01.qmd
-│   └── week_02.qmd
 ├── labs/
 │   ├── lab_0/
 │   │   ├── index.qmd
