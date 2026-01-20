@@ -10,7 +10,7 @@ Each week, you'll complete lab assignments and add them to your portfolio websit
 You can also do this in GitHub Desktop, which will probably be easier at first,
 but slower in the long run. Following is the bash code.
 
-**Very Important: To follow the steps using the bash code, you need to install Git first and finish the git client setup**
+*Very Important: To follow the steps using the bash code, you need to install Git first and finish the git client setup*
 
 **First, clone the course repository** (you only need to do this once):
 
@@ -21,7 +21,7 @@ but slower in the long run. Following is the bash code.
    ```
 3. **Clone the course repository:**
    ```bash
-   git clone https://github.com/CPLN-5920-SP26/CPLN-5920-SP26.git
+   git clone https://github.com/[YOUR GITHUB USERNAME]/CPLN-5920-SP26.git
    ```
 
 **Important:** This creates a **separate folder** from your portfolio repository.
@@ -83,7 +83,7 @@ navbar:
 
 ### Step 1: Get the Lab Template
 
-1. Go to the [course repository](https://github.com/CPLN-5920-SP26/CPLN-5920-SP26)
+1. Go to the [course repository](https://github.com/allisonlass/CPLN-5920-SP26)
 2. Navigate to `labs/lab_X/` (where X is the lab number)
 3. Download or copy the lab template files
 
@@ -122,6 +122,7 @@ navbar:
 1. **Build your site:** Build → Render Website
 2. **Check locally:** Make sure everything looks good
 3. **Commit your changes:** 
+   (You can use GitHub Desktop here as well)
    ```bash
    git add .
    git commit -m "Complete Lab X: [brief description]"
@@ -137,7 +138,9 @@ navbar:
 ## Troubleshooting
 
 ### "Website won't render"
+- Check if any error messages/warnings appear in the RStudio console
 - Check your `_quarto.yml` indentation
+- Make sure all required packages are installed
 - Make sure all file paths are correct
 - Look for typos in file names
 
