@@ -72,11 +72,11 @@ Compare how tibbles and data frames display:
 
 ```{r tibble-vs-dataframe}
 # Look at the tibble version (what we have)
-car_data
+print(car_data)
 
 # Convert to regular data frame and display
 car_df <- as.data.frame(car_data)
-car_df
+print(car_df)
 ```
 
 **Question:** What differences do you notice in how they print?
