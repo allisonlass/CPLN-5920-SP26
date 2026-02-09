@@ -13,6 +13,7 @@ Materials for Penn's Spring 2026 CPLN 5920/MUSA 5080-Public Policy Analytics cou
 - [Lab setup instructions](https://allisonlass.github.io/CPLN-5920-SP26/labs/lab_setup_instructions.html)
 - [Lab 0](https://github.com/allisonlass/CPLN-5920-SP26/tree/main/labs/lab_0)
 - [Lab 1](https://github.com/allisonlass/CPLN-5920-SP26/tree/main/labs/lab_1)
+- [Lab 2](https://github.com/allisonlass/CPLN-5920-SP26/tree/main/labs/lab_2)
 
 **[In-Class Exercises]**
 - [Week 3 - Data Visualization and Exploratory Analysis](https://github.com/allisonlass/CPLN-5920-SP26/tree/main/lectures/week_03/scrips)
