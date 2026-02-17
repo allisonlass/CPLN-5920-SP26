@@ -311,8 +311,8 @@ area_comparison <- pa_counties %>%
   # Geographic (WGS84) - WRONG for areas!
   st_transform(4326) %>%
   mutate(area_geographic = as.numeric(st_area(.))) %>%
-  # PA State Plane South - Good for PA
-  st_transform(3365) %>%
+  # PA State Plane South - Good for PA. This is the meters projection (can also project to ft with 2271)
+  st_transform(32129) %>%
   mutate(area_state_plane = as.numeric(st_area(.))) %>%
   # Albers Equal Area - Good for areas
   st_transform(5070) %>%
@@ -322,7 +322,7 @@ area_comparison <- pa_counties %>%
   mutate(
     # Calculate errors compared to Albers (most accurate for area)
     error_geographic_pct = abs(area_geographic - area_albers) / area_albers * 100,
-    error_state_plane_pct = abs(area_state_plane - area_albers) / area_state_plane * 100
+    error_state_plane_pct = abs(area_state_plane - area_albers) / area_albers * 100
   )
 
 # Show counties with biggest errors
