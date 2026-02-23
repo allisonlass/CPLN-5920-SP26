@@ -9,6 +9,7 @@ Materials for Penn's Spring 2026 CPLN 5920/MUSA 5080-Public Policy Analytics cou
 - [Week 3 - Data Visualization and Exploratory Analysis](https://allisonlass.github.io/CPLN-5920-SP26/lectures/week_03/lecture/week3.html)
 - [Week 4 - Spatial Data and GIS Operations in R](https://allisonlass.github.io/CPLN-5920-SP26/lectures/week_04/lecture/lecture-slides.html)
 - [Week 5 - Introduction to Linear Regression](https://allisonlass.github.io/CPLN-5920-SP26/lectures/week_05/lecture/week5-complete-slides.html)
+- [Week 6 - Spatial Machine Learning & Advanced Regression](https://allisonlass.github.io/CPLN-5920-SP26/lectures/week_06/lecture/week6_slides.html)
 
 **[Labs](https://github.com/allisonlass/CPLN-5920-SP26/tree/main/labs)**
 - [Portfolio template](https://github.com/allisonlass/cpln-5920-sp26-student-portfolio-template)
