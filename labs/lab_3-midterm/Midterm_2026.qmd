@@ -34,7 +34,7 @@ You are consultancy (please name your consultancy) competing to win the bid to w
 
 1. **Presentation slides** (10-15 slides MAX) - Your main findings for stakeholders
 2. **Technical appendix** (HTML document) - All code, diagnostics, and detailed analysis
-3. **5-minute in-class presentation** - Deliver your slides on October 27th
+3. **5-minute in-class presentation** - Deliver your slides on March 17
 
 **Your goal:** Predict 2023-2024 home sale prices accurately while communicating findings clearly to a policy audience.
 
