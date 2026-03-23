@@ -166,7 +166,7 @@ Before you submit, verify that your document includes:
 
 ### Technical Requirements
 
-- [ ] Document knits to HTML without errors
+- [ ] Document renders to HTML without errors
 - [ ] Code is clean and well-organized
 - [ ] All visualizations display properly
 - [ ] Headers and formatting render correctly
