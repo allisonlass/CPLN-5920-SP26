@@ -11,6 +11,7 @@ Materials for Penn's Spring 2026 CPLN 5920/MUSA 5080-Public Policy Analytics cou
 - [Week 5 - Introduction to Linear Regression](https://allisonlass.github.io/CPLN-5920-SP26/lectures/week_05/lecture/week5-complete-slides.html)
 - [Week 6 - Spatial Machine Learning & Advanced Regression](https://allisonlass.github.io/CPLN-5920-SP26/lectures/week_06/lecture/week6_slides.html)
 - [Week 7 - Model Diagnostics & Spatial Autocorrelation](https://allisonlass.github.io/CPLN-5920-SP26/lectures/week_07/lecture/week7_slides.html)
+- [Week 9 - Critical Perspectives on Predictive Policing](https://allisonlass.github.io/CPLN-5920-SP26/tree/main/lectures/week_09/lecture/week9_lecture.html)
 
 **[Labs](https://github.com/allisonlass/CPLN-5920-SP26/tree/main/labs)**
 - [Portfolio template](https://github.com/allisonlass/cpln-5920-sp26-student-portfolio-template)
@@ -24,4 +25,5 @@ Materials for Penn's Spring 2026 CPLN 5920/MUSA 5080-Public Policy Analytics cou
 **In-Class Exercises**
 - [Week 3 - Data Visualization and Exploratory Analysis](https://github.com/allisonlass/CPLN-5920-SP26/tree/main/lectures/week_03/scrips)
 - [Week 4 - Spatial Operations with Pennsylvania Data](https://github.com/allisonlass/CPLN-5920-SP26/tree/main/lectures/week_04/)
+- [Week 9 - Predictive Policing - Technical Implementation](https://github.com/allisonlass/CPLN-5920-SP26/tree/main/lectures/in_class_exercise/)
 
