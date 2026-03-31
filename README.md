@@ -27,4 +27,5 @@ Materials for Penn's Spring 2026 CPLN 5920/MUSA 5080-Public Policy Analytics cou
 - [Week 3 - Data Visualization and Exploratory Analysis](https://github.com/allisonlass/CPLN-5920-SP26/tree/main/lectures/week_03/scrips)
 - [Week 4 - Spatial Operations with Pennsylvania Data](https://github.com/allisonlass/CPLN-5920-SP26/tree/main/lectures/week_04/)
 - [Week 9 - Predictive Policing - Technical Implementation](https://github.com/allisonlass/CPLN-5920-SP26/tree/main/lectures/week_09/in_class_exercise)
+- [Week 10 - Logistic Regression with Equity Analysis](https://github.com/allisonlass/CPLN-5920-SP26/blob/main/lectures/week_10/script/)
 
