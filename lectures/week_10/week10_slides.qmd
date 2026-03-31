@@ -36,7 +36,7 @@ library(knitr)
 **Not asking:** How many times? How long until?  
 **Asking:** Yes or no? Will it happen or not?
 
-**Discussion question (1 minute):**  
+**Discussion question (6 minutes):**  
 
 - How is this different from predicting home prices?
 - Why might they want this prediction?
