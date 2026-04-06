@@ -13,6 +13,7 @@ Materials for Penn's Spring 2026 CPLN 5920/MUSA 5080-Public Policy Analytics cou
 - [Week 7 - Model Diagnostics & Spatial Autocorrelation](https://allisonlass.github.io/CPLN-5920-SP26/lectures/week_07/lecture/week7_slides.html)
 - [Week 9 - Critical Perspectives on Predictive Policing](https://allisonlass.github.io/CPLN-5920-SP26/lectures/week_09/lecture/week9_lecture.html)
 - [Week 10 - Logistic Regression for Binary Outcomes](https://allisonlass.github.io/CPLN-5920-SP26/lectures/week_10/week10_slides.html)
+- [Week 11 - Space-Time Prediction](https://allisonlass.github.io/CPLN-5920-SP26/lectures/week_11/lecture/week11_slides.html)
 
 **[Labs](https://github.com/allisonlass/CPLN-5920-SP26/tree/main/labs)**
 - [Portfolio template](https://github.com/allisonlass/cpln-5920-sp26-student-portfolio-template)
@@ -22,10 +23,12 @@ Materials for Penn's Spring 2026 CPLN 5920/MUSA 5080-Public Policy Analytics cou
 - [Lab 2 - Spatial Analysis and Visualization](https://github.com/allisonlass/CPLN-5920-SP26/tree/main/labs/lab_2)
 - [Lab 3 - Midterm - Philadelphia Housing Price Prediction](https://allisonlass.github.io/CPLN-5920-SP26/labs/lab_3-midterm/Midterm_2026.html)
 - [Lab 4 - Spatial Predictive Analysis](https://allisonlass.github.io/CPLN-5920-SP26/labs/lab_4/lab_4.html)
+- [Lab 5 - Bikeshare Space-Time Prediction (same as Week 11 in-class exercise)](https://github.com/allisonlass/CPLN-5920-SP26/blob/main/lectures/week_11/script/)
 
 **In-Class Exercises**
 - [Week 3 - Data Visualization and Exploratory Analysis](https://github.com/allisonlass/CPLN-5920-SP26/tree/main/lectures/week_03/scrips)
 - [Week 4 - Spatial Operations with Pennsylvania Data](https://github.com/allisonlass/CPLN-5920-SP26/tree/main/lectures/week_04/)
 - [Week 9 - Predictive Policing - Technical Implementation](https://github.com/allisonlass/CPLN-5920-SP26/tree/main/lectures/week_09/in_class_exercise)
 - [Week 10 - Logistic Regression with Equity Analysis](https://github.com/allisonlass/CPLN-5920-SP26/blob/main/lectures/week_10/script/)
+- [Week 11 - Bikeshare Space-Time Prediction (same as Lab 5)](https://github.com/allisonlass/CPLN-5920-SP26/blob/main/lectures/week_11/script/)
 
