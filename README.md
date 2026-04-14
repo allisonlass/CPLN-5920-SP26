@@ -24,6 +24,7 @@ Materials for Penn's Spring 2026 CPLN 5920/MUSA 5080-Public Policy Analytics cou
 - [Lab 3 - Midterm - Philadelphia Housing Price Prediction](https://allisonlass.github.io/CPLN-5920-SP26/labs/lab_3-midterm/Midterm_2026.html)
 - [Lab 4 - Spatial Predictive Analysis](https://allisonlass.github.io/CPLN-5920-SP26/labs/lab_4/lab_4.html)
 - [Lab 5 - Bikeshare Space-Time Prediction (same as Week 11 in-class exercise)](https://github.com/allisonlass/CPLN-5920-SP26/blob/main/lectures/week_11/script/)
+- [Final Project](https://allisonlass.github.io/CPLN-5920-SP26/labs/final/final_project_instructions_2026.html)
 
 **In-Class Exercises**
 - [Week 3 - Data Visualization and Exploratory Analysis](https://github.com/allisonlass/CPLN-5920-SP26/tree/main/lectures/week_03/scrips)
