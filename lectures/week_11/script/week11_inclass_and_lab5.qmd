@@ -1166,7 +1166,7 @@ For Homework 5, you'll work either all byyyy yourself or in teams of 2 to:
 
 ## Part 1: Replicate with Different Quarter (alternately, you could do a longer time-span by merging multiple quarters together. I'm not picky about that)
 
-1.  **Download data** for Q2, Q3, or Q4 2024 from: https://www.rideindego.com/about/data/
+1.  **Download data** for Q2, Q3, or Q4 2025 from: https://www.rideindego.com/about/data/
 
 2.  **Adapt this code** to work with your quarter:
 
@@ -1282,8 +1282,7 @@ Write 1-2 paragraphs addressing:
     -   New features you added and why
     -   Critical reflection on deployment
 
-3. **HTML output** with results and visualizations
-
+3.  **HTML output** with results and visualizations
 
 ## Tips for Success
 
