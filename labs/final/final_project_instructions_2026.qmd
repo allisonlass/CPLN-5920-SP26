@@ -330,6 +330,6 @@ Everyone contributes to everything, but having point people prevents duplication
 - All data sources documented
 - Clean, commented code
 
-**Don't wait until very late Monday night to discover your repo won't render or you can't commit your repo!**
+**Don't wait until very late Monday night to discover your qmd file won't render or you can't push to your repo!**
 
 
