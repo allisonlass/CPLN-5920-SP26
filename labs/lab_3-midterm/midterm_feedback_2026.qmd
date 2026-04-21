@@ -1,0 +1,49 @@
+---
+title: "Lab 3 Notes"
+subtitle: "Reflections on the midterm that apply to your final"
+author: "Allison Lassiter"
+date: 04-21-26
+format: revealjs
+editor: visual
+---
+
+
+
+## When cleaning your data
+  - Limit your sample -- ie, just SFR + just "normal" housing market
+  - OLS model assumes data has normal distribution (poisson and negative binomial do not)
+  - Once you find outliers at the very end (Cook's), consider looping back to drop those outliers
+
+
+## Describe why
+  - Why you made the cleaning decisions you made
+  - What variables you're adding to your model
+  - Why you selected final model
+  
+
+## Communicate results of choices
+  - How has the number of observations in your sample changed?
+  - What are the fit statistics for your model (R^2)
+  - What is the RMSE/MAE for predictions?
+    - If you log the outcome variable, exponentiate to get back into original units
+  - What are the features that are driving your model output
+    - If you log the outcome variable, 1 unit increases output by __%
+    
+
+## Check your output
+  - Does your rendered document look good?
+  
+
+## Upload final work to GitHub
+  - If you have a large dataset, you can't upload it to GitHub
+    - Add to your .gitignore file so that GitHub desktop doesn't try to push it to GitHub
+  - If you are not sharing a dataset, in your code be sure to point a user to where they can find the data
+
+
+## Be cautious of
+  - Fixed effects
+    - Having a ton of fixed effects can lead to overfitting
+    - Be sure you're addressing sparse categories when using fixed effects
+    - You don't need to show the coefficients of all the fixed effects
+  - Cleaning features often resolves heteroskedasicity in residuals
+    - Features are also assumed to be normally distributed
